@@ -16,7 +16,7 @@ Thank you to all the Men and Women, you are true hero's and we Thank You, God Bl
 ## Links
 
 - [myMericaFlag Link](https://nicholasd-uci.github.io/myMericaFlag/)
-- [Github Repo Link](https://github.com/nicholasd-uci/myMericaFlag)
+- [GitHub Repo Link](https://github.com/nicholasd-uci/myMericaFlag)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
 - - -
